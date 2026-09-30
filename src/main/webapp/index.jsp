@@ -7,11 +7,10 @@
 
 <body>
 
-    <h1>Jenkins CI/CD Demo</h1>
+    <h1>Deepak Gupta CI/CD Demo</h1>
 
-    <h2>WAR Deployment Successful!</h2>
-
-    <p>This application was built using Maven.</p>
+    <h2>WAR Deployment Successful - Version 2!</h2>
+    <p>Application updated through CI/CD pipeline.</p>
 
     <p>Deployed automatically through Jenkins.</p>
 
